@@ -5,7 +5,6 @@
 
 ```
 if ($?) { gcc donut.c -o donut } ; if ($?) { .\donut }
-
 ```
 ### or
 ```
